@@ -1,0 +1,37 @@
+body{
+    font-family: arial, sans-serif;
+  background-color: gainsboro;;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+table{
+    
+border: 2px solid darkorchid;
+text-align: left;
+width: 600px;
+
+
+}
+table thead{
+    text-align: center;
+    background-color:plum ;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    color: rebeccapurple;
+    text-align: center;
+}
+td{
+    border-top: 1px solid #000;
+}
+.code{
+    background-color:beige;
+
+}
